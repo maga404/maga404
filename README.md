@@ -19,9 +19,10 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</div>  
 
-<div style="margin-bottom: 20px;">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</div>
+</br>
+
+
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" />
